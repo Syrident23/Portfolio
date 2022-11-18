@@ -31,7 +31,7 @@ import Mongo from './assets/techstack/MongoDB.png'
 
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
-import projectImage3 from "./assets/projects/project3.jpg";
+
 
 // Logos
 export const logos = {
@@ -105,27 +105,8 @@ export const projectDetails = [
   {
     title: "E-Comerce",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 2",
-    image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 3",
-    image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `E-commerce template with administrator system, designed to be adaptable to any company `,
+    techstack: "TypeScript ,React, Redux, Node, MongoDb",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
